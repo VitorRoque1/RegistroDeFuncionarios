@@ -1,0 +1,4 @@
+Vitor;5555555555;dev;1000;vitorteste@gmail.com;1155555555
+Roberto;5555555541;dev;1200;robertoteste@gmail.com;1555511111
+Marcelo;4444444444;dev;1500;marceloteste@gmail.com;11220202020
+Felipe;5555220000;dev;1500;felipeteste@gmail.com;1152220544

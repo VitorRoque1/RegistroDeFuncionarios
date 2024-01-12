@@ -1,0 +1,14 @@
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\bin\Debug\net8.0\RegistrarFuncionario.exe
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\bin\Debug\net8.0\RegistrarFuncionario.deps.json
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\bin\Debug\net8.0\RegistrarFuncionario.runtimeconfig.json
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\bin\Debug\net8.0\RegistrarFuncionario.dll
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\bin\Debug\net8.0\RegistrarFuncionario.pdb
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.dll
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\refint\RegistrarFuncionario.dll
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.pdb
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\RegistrarFuncionario.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Projeto\RegistrarFuncionario\RegistrarFuncionario\obj\Debug\net8.0\ref\RegistrarFuncionario.dll
